@@ -43,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tensorflow/tensorflow-original.svg)" height="40" alt="pytorch logo"  />
 </div>
 
 ###
