@@ -12,24 +12,24 @@
 <h2 align="left">Обо мне </h2>
 <p align="left">
     
-Специализируюсь в области Data Science (DS), Machine Learning (ML), Deep Learning (CV, NLP).
+### 💼 Опыт
+- 👨‍💻 Python-разработчик @ АО НИИАС
+- 📦 Прогнозирование товарных запасов
+- 🛰️ Компьютерное зрение: YOLO + PyTorch
 
-Участник хакатонов: DeepHack.Agents (МФТИ), Data Wagon (АО ПГК)
-
-Опыт преподавания и написания учебных программ (13 лет в СамГУПС)
-
-**Проекты**
-- Прогнозирование движения товарных запасов
+### 🚀 Проекты
+- 📈 Прогнозирование движения товарных запасов
 Модель с перебором по 1292 конфигурациям, включающим ансамбли и нейросети, на временных рядах складских данных
-- CV: Распознавание пикетных столбов
+- 🔎 CV: Распознавание пикетных столбов
 YOLO + PyTorch. Обработка изображений с дронов для цифровой инвентаризации инфраструктуры РЖД
+- 🤖 [Чат-боты на AIOgram
 
-**Технологии**
-Языки: Python, SQL
-Библиотеки: NumPy, pandas, Scikit-learn, PyTorch, TensorFlow, LightGBM, CatBoost, XGBoost, OpenCV
-Инфраструктура: Git, Docker, Jupyter, PyCharm, Linux
-Визуализация: Matplotlib, Seaborn, Plotly
-Доп. библиотеки: ETNA, Prophet, LangChain (базово)
+### 🛠️ Навыки
+- **Языки**: Python, SQL
+- **Библиотеки**: NumPy, pandas, Scikit-learn, PyTorch, TensorFlow, LightGBM, CatBoost, XGBoost, OpenCV
+- **Инфраструктура**: Git, Docker, Jupyter, PyCharm, Linux
+- **Визуализация**: Matplotlib, Seaborn, Plotly
+- **Доп. библиотеки**: ETNA, Prophet, LangChain (базово)
 
 ## 📜 Сертификаты
 
