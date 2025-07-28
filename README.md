@@ -1,7 +1,7 @@
 <h1 align="left">Всем привет 👋</h1>
 
 <p align="left">
-В программировании я увлекаюсь направлениями:<br>
+Мои направления деятельности:<br>
 🎓 DS (Data Science),<br>
 🎲 ML (Machine Learning), <br>
 📚 DL (Deep Learning).
