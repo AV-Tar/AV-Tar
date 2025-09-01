@@ -42,8 +42,8 @@
 ---
 
 ### 🔎 CV: Распознавание ж/д пикетных столбиков
-- [GitHub проект (YOLOv5, PyTorch)](https://github.com/AV-Tar/railway-piket-detection)  
-- [Статья на Хабр](https://habr.com/ru/articles/854646/)
+- ✈️ [Распознавание ж/д пикетных столбиков по фотографиям с беспилотника (YOLO, PyTorch)](https://github.com/AV-Tar/railway-piket-detection) ✍️ [Статья на Хабр](https://habr.com/ru/articles/854646/)
+- 🤔 [Face Recognition](https://github.com/AV-Tar/DLS_CV/blob/main/09_Face%20Recognition%20(graduation%20work).ipynb)
 
 ---
 
