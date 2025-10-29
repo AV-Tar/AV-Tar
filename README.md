@@ -5,39 +5,44 @@
 ---
 
 ## Обо мне
-- 2+ года коммерческого опыта (ОАО «РЖД» — аналитика и прогнозирование)
-- 10+ лет исследовательской и менторской работы
-- [Автор 25+ научных статей и патента](https://elibrary.ru/author_items.asp?authorid=997279&show_option=1&show_refs=1)
-- Экспертиза: ML/DL, CV, временные ряды
+- 2 года коммерческого опыта в IT (ОАО «РЖД» — складская аналитика, прогнозирование поставок, временные ряды, CV)
+- 13 лет R&D исследовательской и менторской работы (закончил аспирантуру, преподаватель геодезии). НИОКР проекты: моделирование и оптимизация, геоаналитика, тензометрия.
+- [Автор 23 научных статей и патента](https://elibrary.ru/author_items.asp?authorid=997279&show_option=1&show_refs=1)
+- Экспертиза: временные ряды, ML/DL, CV
 
 ---
 
 ## 💼 Опыт
-- **Data Scientist, Python-разработчик** @ АО НИИАС (09.2023 — по наст. время)
+- **Data Scientist, Python-разработчик** @ АО НИИАС (09.2023 — 10.2025), 2 года
+  
+О компании: АО «НИИАС» - Научно-исследовательский и проектно-конструкторский институт информатизации, автоматизации и связи на железнодорожном транспорте. Институт выполняет полный цикл работ по созданию новой техники и современных технологий от научно-исследовательской работы до внедрения и эксплуатации на объектах железнодорожного транспорта.
+  
+- **R&D исследователь, ментор** @ ФГБОУ ВО ПривГУПС (10.2010 - 07.2023), 13 лет
+
+О компании: ФГБОУ ВО «ПривГУПС» - Приволжский Государственный Университет Путей Сообщения является отраслевым транспортным университетом с широкой филиальной сетью.
 
 ---
 
 ## 🛠 Hard Skills:
-- **DA/DS:** Python, Pandas, NumPy, Statsmodels, AutoML, SciPy, Feature Engineering, Experiment Design
-- **ML/DL:** Scikit-learn, PyTorch, TensorFlow, OpenCV, LightGBM, CatBoost, XGBoost, Hugging Face, LangChain
-- **Time Series:** ETNA, Prophet
-- **Infrastructure / MLOps:** Jupyter (Notebook, Lab, Hub), PyCharm, VS Code, Git, Linux, SQL, Docker, Spark, Cloud, AIOgram
-- **Visualization / Reporting:** Matplotlib, Seaborn, Plotly, Unidraw, HTML, CSS, storytelling
+- **DA/DS:** Python, Pandas, NumPy,  AutoML, SciPy, Feature Engineering, Experiment Design, A/B тесты
+- **ML/DL:** Scikit-learn, PyTorch, TensorFlow, OpenCV, LightGBM, CatBoost, XGBoost
+- **Time Series:** Statsmodels, ETNA, Prophet
+- **Infrastructure / MLOps:** Jupyter (Notebook, Lab, Hub), PyCharm, VS Code, GigaIDE, Cursor AI, Git, Linux, PostgreSQL, Cloud, AIOgram
+- **Visualization / Reporting:** Matplotlib, Seaborn, Plotly, Unidraw, storytelling
+- **R&D in Engineering:** Simulation (UM), Ansys, Femap NX Nastran, LCard, LGraph, Mathlab, Excel VBA
 
 ## 🗣 Soft Skills:
-Менторинг • Коммуникации с руководством • Принятие решений  
-Стратегическое мышление • Устойчивость к стрессу  
+Менторинг, коммуникации с командой и руководством, стратегическое мышление, объясняю сложные вещи простыми словами 
 
 ---
 
 ## 🚀 Проекты
 
-### 📈 Прогнозирование движения товарных запасов (ОАО РЖД)
-> Проект стоимостью 28,8 млн руб.  
-> Аналитика 18k+ наименований, 500+ поставщиков.  
-> Временные ряды: EDA, стационарность, декомпозиция, корреляции, фильтрация шумов, Фурье, скользящие средние.  
-> Модели: ARIMA, Holt-Winters, RF, GBM, SVR, RNN, TCN, Transformer, Prophet, ETNA.  
-> Итог: **MAPE = 12%** на лучших рядах (1200+ моделей).  
+### 📈  @ АО НИИАС "Исследование факторов образования сверхнормативных запасов материально-технических ресурсов на складах ОАО «РЖД"
+- Аналитика 18k+ наименований (SKU), 500+ поставщиков;
+- Временные ряды: EDA, стационарность, декомпозиция, корреляции, фильтрация шумов, Фурье, скользящие средние;
+- Модели: ARIMA, Holt-Winters, RF, GBM, SVR, RNN, TCN, Transformer, Prophet, ETNA;
+- Автоматизированный процесс гиперпараметрического поиска (1200+ моделей) с логированием метрик качества.  
 
 ---
 
@@ -47,10 +52,6 @@
 
 ---
 
-### 🤖 Чат-боты на AIOgram
-Разработка ботов для аналитики и автоматизации процессов.
-
----
 
 ## 📜 Сертификаты
 
